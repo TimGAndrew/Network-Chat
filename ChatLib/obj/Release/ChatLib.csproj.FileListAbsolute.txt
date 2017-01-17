@@ -1,0 +1,4 @@
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatLib\bin\Release\ChatLib.dll
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatLib\bin\Release\ChatLib.pdb
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatLib\obj\Release\ChatLib.dll
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatLib\obj\Release\ChatLib.pdb

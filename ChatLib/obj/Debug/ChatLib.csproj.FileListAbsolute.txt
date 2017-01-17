@@ -1,0 +1,5 @@
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatLib\bin\Debug\ChatLib.dll
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatLib\bin\Debug\ChatLib.pdb
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatLib\obj\Debug\ChatLib.csprojResolveAssemblyReference.cache
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatLib\obj\Debug\ChatLib.dll
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatLib\obj\Debug\ChatLib.pdb

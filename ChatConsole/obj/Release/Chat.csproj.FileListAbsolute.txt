@@ -1,0 +1,8 @@
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatConsole\bin\Release\Chat.exe.config
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatConsole\bin\Release\Chat.exe
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatConsole\bin\Release\Chat.pdb
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatConsole\bin\Release\ChatLib.dll
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatConsole\bin\Release\ChatLib.pdb
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatConsole\obj\Release\Chat.csprojResolveAssemblyReference.cache
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatConsole\obj\Release\Chat.exe
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\TimAndrew_Prog2200_Assignment1\ChatConsole\obj\Release\Chat.pdb
